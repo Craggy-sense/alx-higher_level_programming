@@ -1,1 +1,1 @@
-Python starts
+Python language
