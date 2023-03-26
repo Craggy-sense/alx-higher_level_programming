@@ -1,1 +1,1 @@
-Python language
+My first JavaScript Project
